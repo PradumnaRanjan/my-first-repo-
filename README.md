@@ -1,1 +1,1 @@
-# this is my demo projectg
+# this is my demo project
